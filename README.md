@@ -2,11 +2,11 @@
 
 An expense tracker app built with Vue 3 and the composition API.
 
--   Add and remove expenses/income
--   Track balance
--   Save data to local storage
--   [Vue Toastification](https://github.com/Maronato/vue-toastification) for notifications
--   `<script setup>` syntax (Vue 3.2+)
+- Add and remove expenses/income
+- Track balance
+- Save data to local storage
+- [Vue Toastification](https://github.com/Maronato/vue-toastification) for notifications
+- `<script setup>` syntax (Vue 3.2+)
 
 ## Project Setup
 
@@ -25,3 +25,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Screenshots
+
+![vue-expense-tracker screenshot](public/vue-expense-tracker.jpg?raw=true "Vue Expense Tracker App")
